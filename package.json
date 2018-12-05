@@ -1,0 +1,17 @@
+{
+  "name": "hermione_bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "selenium": "selenium-standalone install && selenium-standalone start",
+    "hermione": "hermione"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "4.2.0",
+    "hermione": "0.90.2",
+    "selenium-standalone": "6.15.4"
+  }
+}
